@@ -132,7 +132,8 @@ body{
     background: transparent;
     margin: 0 0.5rem;
     cursor: pointer;
-    color:#fff
+    color:#fff;
+    text-decoration: none;
 }
 .btn.btn-pink{
     background: #fd4766;

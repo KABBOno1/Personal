@@ -133,19 +133,19 @@ body{
     margin: 0 0.5rem;
     cursor: pointer;
     color:#fff;
-    text-decoration: none;
-    list-style: none;
 }
 .btn.btn-pink{
     background: #fd4766;
     color: #fff;
     border-color: #fd4766;
     transition: all 0.5s ease-in-out;
+    text-decoration: none;
 }
 .btn.btn-pink:hover{
     background: transparent;
     border-color: #fff;
     color: #fff;
+    text-decoration: none;
 }
 .btn.btn-white{
     transition: all 0.5s ease-in-out;
